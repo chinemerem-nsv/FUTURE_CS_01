@@ -96,7 +96,7 @@ This assessment was conducted in a controlled lab environment for educational pu
 
 - Backend: PHP 5.6.40
 
-![Page Source Analysis](screenshots/page_source_analysis.png)
+![Page Source Analysis](screenshots/web_analysis.png)
 
 ### 4. Directory Enumeration
 
