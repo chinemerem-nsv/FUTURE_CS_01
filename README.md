@@ -79,6 +79,7 @@ This assessment was conducted in a controlled lab environment for educational pu
 - Server: nginx 1.19.0
 
 - No additional open ports identified
+
 ![Nmap and curl output](screenshots/nmap_curl_output.png)
 
 ### 2️. HTTP Header Analysis
@@ -94,6 +95,7 @@ This assessment was conducted in a controlled lab environment for educational pu
 - Character encoding: iso-8859-2
 
 - Backend: PHP 5.6.40
+
 ![Page Source Analysis](screenshots/page_source_analysis.png)
 
 ### 4. Directory Enumeration
@@ -108,6 +110,7 @@ Accessible directories:
 - /js/
 
 - /admin/
+
 ![Directory scan output](screenshots/directory_scan.png)
 
 ---
@@ -141,7 +144,8 @@ Unsupported software increases the risk of exploitation through publicly known v
 ## Report
 
 The full vulnerability assessment report can be accessed below:
-[Download Full Report (PDF)](report/Web_Security_Assessment_Report.pdf)
+
+[Download Full Report (PDF)](report/WebSecAssess_testphp_Chinemerem_Ndubuisi.pdf)
 
 ---
 
