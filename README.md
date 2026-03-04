@@ -1,6 +1,4 @@
-# FUTURE_CS_01 – Vulnerability Assessment Report
-
-## Cyber Security Track – Task 1
+# Vulnerability Assessment Report
 
 ---
 
